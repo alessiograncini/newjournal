@@ -10,5 +10,9 @@ In this simple iOS app, the user casually inputs some thoughts regarding the "go
 <img src="pres2.png" alt="Logo" width="60%"/>
 
 This was fun! 
+Connect with us
+https://twitter.com/alessiograncini
+https://twitter.com/karanganesan
+
 Made during 
 https://lu.ma/taa6ijxt
