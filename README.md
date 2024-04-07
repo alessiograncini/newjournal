@@ -1,2 +1,5 @@
 # newjournal
-an interactive mobile application to augment future using your past
+
+![Logo](logo.png)
+
+An interactive mobile application to augment future using your past.
